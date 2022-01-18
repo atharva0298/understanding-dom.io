@@ -6,6 +6,8 @@ So, this is basically an Item-Lister app, which is made for improving the unders
 - ADD ITEMS
 - DELETE ITEMS
 - FILTER AND SEARCH
+
+
 All the three functions are coded using Javascript and are working successfully.
 
 ![image](https://user-images.githubusercontent.com/66861184/149809911-d898c0e6-2f62-4b4f-8e64-3703e877c536.png)
